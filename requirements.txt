@@ -1,0 +1,5 @@
+Django
+tzdata
+sqlparse
+asgiref
+psycopg2

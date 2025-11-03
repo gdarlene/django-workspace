@@ -1,0 +1,31 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+realestatesenv
+.vscode/
+
+# Django
+*.log
+*.pot
+*.py[cod]
+db.sqlite3
+db.postgresql
+/staticfiles/
+media/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+*.iml
